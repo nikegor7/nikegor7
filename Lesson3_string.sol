@@ -31,4 +31,11 @@ contract Demo {
     //    string memory myTempStr = "temp"; // временное хранение в памяти пока работает функция с помощью memory
         myStr = newValueStr;
     }*/
+    
+    /*
+    Members of bytes
+bytes.concat(...) returns (bytes memory): Concatenates variable number of bytes and bytes1, …, bytes32 arguments to one byte array
+
+Members of string
+string.concat(...) returns (string memory): Concatenates variable number of string arguments to one string array*/
 }
